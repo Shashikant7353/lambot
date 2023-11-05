@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "chat message code is created ready to deploy"
+
